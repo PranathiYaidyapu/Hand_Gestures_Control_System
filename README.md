@@ -33,7 +33,3 @@ The Hand Gesture Control System is a computer vision project that enables touchl
 - Machine learning-based gesture classification
 - Mobile application integration
 - Enhanced cloud analytics
-
-## Author
-
-Pranathi Yaidyapu
